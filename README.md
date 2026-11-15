@@ -1,1 +1,2 @@
-# team-demo
+Team Demo Project
+Draft work in progress
